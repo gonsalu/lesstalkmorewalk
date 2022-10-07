@@ -57,10 +57,6 @@ menus:
       url: "/#"
       weight: 4
 
-    - name: "Blog"
-      url: "/blog"
-      weight: 5
-
   buttons:
     - name: "Book a call"
       url: "/#"
