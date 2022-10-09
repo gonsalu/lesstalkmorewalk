@@ -6,22 +6,22 @@ content:
   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Styringsrapporter i PowerBI"
+      text: "Få tilgang til våre standardiserte styringsrapporter. Velg mellom en rekke løsninger, både for fagområder og bransjer. Perfekt for dere som er nysgjerrige på om dette er nyttig for dere - den raskeste og billigste måten å komme igang."
       button:
-        label: "Learn more"
+        label: "Les mer"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Prosjektbasert utvikling"
+      text: "Selv om man kan komme et godt stykke på vei med våre standard rapporter, og dette anbefales for kunden i startfasen ser vi et voksende behov for prosjektbasert utvikling av kundetilpassede rapporter. Ulike kilder kombineres til ny innsikt"
       button:
-        label: "Learn more"
+        label: "Les mer"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Analytics as a Service"
+      text: "Vi rådgir, setter opp og drifter de tekniske løsningene som skal til for å lykkes med Analytics. Dere får tilgang på vårt team av spesialister for dekke behov for videreutvikling. Vårt driftsteam sørger for drift og vedlikehold av løsnignene deres  "
       button:
-        label: "Learn more"
+        label: "Les mer"
         url: "#"
