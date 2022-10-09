@@ -4,7 +4,9 @@ id: "hero"
 content:
   title: "Innsikt som skaper økt lønnsomhet"
   text: "Forstå mer av forholdene som påvirker din virksomhet og ta bedre beslutnigner. 
-          Gjennom automatiserte rapporter og analyser blir nødvendig informasjon enkelt og effektivt tilgjengelig for deg som skal ta beslutninger som påvirker bunnlinjen. "
+          Gjennom automatiserte rapporter og analyser blir nødvendig informasjon enkelt og effektivt tilgjengelig for deg som skal ta beslutninger som påvirker bunnlinjen.
+          
+          Vi er blant de første i verden til å tilby PowerBI rapporter som en tjeneste!"
 
   buttonPrimary:
     label: "Kontakt oss"
