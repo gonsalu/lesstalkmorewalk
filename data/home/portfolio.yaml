@@ -3,37 +3,37 @@ id: "portfolio"
 
 content:
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Produktportefølje"
+    title: "Vi skaper innsikt i din lønnsomhet"
+    text: "Vi leverer styringsverktøy for finansiell innsikt. Fra automatiske finansielle rapporter fra regnskapet til avanserte analyser av utvikling i lønnsomhet. Informasjonen er alltid oppdatert og klar til bruk."
 
     buttons: 
-      - label: "See live"
+      - label: "Se demorapport"
         url: "#"
 
-      - label: "Read more"
+      - label: "Les mer"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Produktportefølje"
+    title: "De ansatte er selskapers viktigste ressurs"
+    text: "God styringsinformasjon knyttet til dine ansatte er avgjørende for å lykkes med å skaffe, ta vare på og videreutvikle talenter og kompetanse i din organisajson. Frigjør tid ved å automatisere lovpålagt rapportering, bruk tiden på å videreutvikle dine ansatte"
 
     buttons: 
-      - label: "See live"
+      - label: "Se demorapport"
         url: "#"
 
-      - label: "Read more"
+      - label: "Les mer"
         url: "#"
 
   - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    pretitle: "Produktportefølje"
+    title: "Prosessforbedringer"
+    text: "Den mest verdifulle styringsinformasjon er den som er knyttet til deres kjerneaktiviteter. Det er her kundeverdien skapes og det er mest å hente på å øke innsikten for å drive faktabasert forbedringsarbeid. Vi utvider stadig våre løsninger med løsninger for nye bransjer"
 
     buttons: 
-      - label: "See live"
+      - label: "Se demorapport"
         url: "#"
 
-      - label: "Read more"
+      - label: "Les mer"
         url: "#"
