@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Less talk, more walk"
-  description: "Vi spesialiserer oss på styringsinformasjon og analyse for å sette våre kunder i stand til å bli mer lønnsomme."
+  description: "Vi hjelper våre kunder med å bli mer lønnsomme ved å skape & tilgjengeliggjøre innsikt."
   images: 
     - "images/hero-image.png"
 
