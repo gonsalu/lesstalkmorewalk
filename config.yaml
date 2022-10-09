@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "Less talk, more walk"
-  description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
+  description: "Vi spesialiserer oss på styringsinformasjon og analyse for å sette våre kunder i stand til å bli mer lønnsomme."
   images: 
     - "images/hero-image.png"
 
@@ -28,11 +28,11 @@ params:
     twitter: "#"
 
   location:
-    - "3891 Ranchview Dr. Richardson, California 62639"
-    - "4517 Washington Ave. Manchester, Kentucky 39495"
+    - "Oslo, Norge"
+    - "Oslo, Norge"
 
   contact:
-    - "trungkienspktnd@gamail.com"
+    - "xyz@gamail.com"
     - "207.555.0119"
 
   copyright: "© 2022 Up Business All Rights Reserved"
@@ -41,7 +41,7 @@ params:
 
 menus:
   main:
-    - name: "Home"
+    - name: "Hjem"
       url: "/#hero"
       weight: 1
 
@@ -49,22 +49,22 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Om oss"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Prising"
       url: "/#"
       weight: 4
 
   buttons:
-    - name: "Book a call"
+    - name: "Kontakt oss"
       url: "/#"
       weight: 5
       pre: "btn btn-primary text-light"
 
   footer:
-    - name: "Home"
+    - name: "Hjem"
       url: "/#hero"
       weight: 1
 
@@ -72,11 +72,11 @@ menus:
       url: "/#"
       weight: 2
 
-    - name: "Our team"
+    - name: "Om oss"
       url: "/#"
       weight: 3
 
-    - name: "Pricing"
+    - name: "Prising"
       url: "/#"
       weight: 4
 
