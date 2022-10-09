@@ -3,13 +3,14 @@ id: "hero"
 
 content:
   title: "Innsikt som skaper økt lønnsomhet"
-  text: "Testing"
+  text: "Forstå mer av forholdene som påvirker din virksomhet og ta bedre beslutnigner. 
+          Gjennom automatiserte rapporter og analyser blir nødvendig informasjon enkelt og effektivt tilgjengelig for deg som skal ta beslutninger som påvirker bunnlinjen. "
 
   buttonPrimary:
-    label: "How we work"
+    label: "Slik fungerer det"
     url: "#"
 
   buttonSecondary:
-    label: "Let's talk"
+    label: "Kontakt oss"
     url: ""
 
