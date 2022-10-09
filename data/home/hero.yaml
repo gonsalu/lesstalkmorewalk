@@ -7,10 +7,10 @@ content:
           Gjennom automatiserte rapporter og analyser blir nødvendig informasjon enkelt og effektivt tilgjengelig for deg som skal ta beslutninger som påvirker bunnlinjen. "
 
   buttonPrimary:
-    label: "Slik fungerer det"
+    label: "Kontakt oss"
     url: "#"
 
   buttonSecondary:
-    label: "Kontakt oss"
+    label: "Slik fungerer det"
     url: ""
 
