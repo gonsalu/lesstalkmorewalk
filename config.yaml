@@ -56,6 +56,10 @@ menus:
     - name: "Prising"
       url: "/#"
       weight: 4
+      
+    - name: "Blog"
+      url: "/#"
+      weight: 4
 
   buttons:
     - name: "Kontakt oss"
