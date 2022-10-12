@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "images/Finansielt DB.png"
     pretitle: "Produktportefølje"
     title: "Vi skaper innsikt i din lønnsomhet"
     text: "Vi leverer styringsverktøy for finansiell innsikt. Fra automatiske finansielle rapporter fra regnskapet til avanserte analyser av utvikling i lønnsomhet. Informasjonen er alltid oppdatert og klar til bruk."
